@@ -1,8 +1,9 @@
 using System.Collections.Generic;
+using Wesley.SharedContext;
 
 namespace Wesley.ContentContext 
 {
-    public class Module
+    public class Module : Base
     {
         public Module()
         {   

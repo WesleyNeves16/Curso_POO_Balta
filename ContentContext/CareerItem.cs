@@ -1,11 +1,15 @@
+using Wesley.NotificationContext;
+using Wesley.SharedContext;
+
 namespace Wesley.ContentContext
 {
-    public class CareerItem
+    public class CareerItem : Base
     {
         public CareerItem(int order, string title, string description, Course course)
         {
             if(course == null)
-                throw new System.Exception("O curso não pode ser nulo ♥");
+                AddNotification(new Notification("Course", "Curso inválido"));   
+                // throw new System.Exception("O curso não pode ser nulo ♥");
                 
             Order = order;
             Title = title;

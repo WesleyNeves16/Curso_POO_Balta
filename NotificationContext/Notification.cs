@@ -7,15 +7,15 @@ namespace Wesley.NotificationContext
             
         }
 
-        public Notification(string pr)
+        public Notification(string property)
         {
-
+            this.Property = property;
         }
 
         public Notification(string property, string message)
         {
-            Property = property;
-            Message = message;
+            this.Property = property;
+            this.Message = message;
         }
 
         public string Property { get; set; }

@@ -6,7 +6,7 @@ namespace Wesley.ContentContext
     public class Course: Content
     {
         public Course(string title, string url)
-        : base(title, url)
+            : base(title, url)
         {
             Modules = new List<Module>(); //Sempre iniciar a lista quando instanciar a classe/objeto
         }

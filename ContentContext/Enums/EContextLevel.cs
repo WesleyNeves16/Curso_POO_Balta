@@ -2,10 +2,10 @@ namespace Wesley.ContentContext.Enums
 {
     public enum EContentLevel
     {
-        Beginner = 1,
-        Fundamental = 2,
-        Intermediary = 3,
-        Advanced = 4
+        Beginner = 1, //Como já defini o primeiro valor, não preciso definir os outros
+        Fundamental,
+        Intermediary,
+        Advanced
     }
     
 }

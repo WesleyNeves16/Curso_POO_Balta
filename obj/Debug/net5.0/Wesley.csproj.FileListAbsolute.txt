@@ -1,0 +1,16 @@
+C:\Projects\POO_C#\Curso_POO_Balta\bin\Debug\net5.0\Wesley.exe
+C:\Projects\POO_C#\Curso_POO_Balta\bin\Debug\net5.0\Wesley.deps.json
+C:\Projects\POO_C#\Curso_POO_Balta\bin\Debug\net5.0\Wesley.runtimeconfig.json
+C:\Projects\POO_C#\Curso_POO_Balta\bin\Debug\net5.0\Wesley.runtimeconfig.dev.json
+C:\Projects\POO_C#\Curso_POO_Balta\bin\Debug\net5.0\Wesley.dll
+C:\Projects\POO_C#\Curso_POO_Balta\bin\Debug\net5.0\Wesley.pdb
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.csproj.AssemblyReference.cache
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.AssemblyInfoInputs.cache
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.AssemblyInfo.cs
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.csproj.CoreCompileInputs.cache
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.dll
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\refint\Wesley.dll
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.pdb
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\Wesley.genruntimeconfig.cache
+C:\Projects\POO_C#\Curso_POO_Balta\obj\Debug\net5.0\ref\Wesley.dll
